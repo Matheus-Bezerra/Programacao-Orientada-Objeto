@@ -1,7 +1,7 @@
 # Programação Orientada a Objetos
 
 Neste repositório deixarei algumas explicações do lado téorico da Programação Orientado a Objetos
-<br><br>
+<br>
 
 <h2>
 Conceitos Iniciais
