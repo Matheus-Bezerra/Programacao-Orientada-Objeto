@@ -8,7 +8,7 @@ Conceitos Iniciais
 </h2>
 
 ### Pacotes
-Uma forma de organizar no caso da linguagem Java, prevenindo problemas como repetição de nomes de classes ou identificadores, entre outros. Usamos pacotes para associar um grupo de classes para o mesmo Objetivo do sistema, para garantir que aquele grupo está se referindo a mesma regra de negócios.
+Uma forma de organizar no caso da linguagem Java, prevenindo problemas como repetição de nomes de classes ou de identificadores, entre outros. Usamos pacotes para associar um grupo de classes para o mesmo Objetivo do sistema, para garantir que aquele grupo está se referindo a mesma regra de negócios.
 
 ### Classe
 É um protótipo para criação do nosso objeto, onde é nela que podemos colocar as característica e comportamentos (atributos e métodos) para nosso Objeto.
@@ -238,7 +238,7 @@ public class Carro extends Veiculo implements ControlarVeiculo {
 
 ### POLIMORFISMO
 
-É a característica que garante que um método de uma classe filha possa ter um comportamento diferente da classe pai ( resultados diferentes ), como foi comentado acima em Herança isso pode ser feito sem problemas alguns graças a está técnica de polimorfismo.
+É a característica que garante que um método de uma classe filha possa ter um comportamento diferente da classe pai ( resultados diferentes ), como foi comentado acima em Herança isso pode ser feito sem problemas algum, graças a está técnica de polimorfismo.
 
 Sobrescrita de métodos e Sobrecarga: O método de sobrescrita tem que ser idêntico ao método da classe herdada, ou seja precisam ter o mesmo nome, valor de retorno e argumentos. Agora caso se a classe filha tiver o método com o mesmo nome porém não idêntica pois criou-se então uma sobrecarga, permitindo então a existências de varíos métodos de mesmo nome, porém com assinaturas diferentes.
 
